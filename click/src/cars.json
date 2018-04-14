@@ -1,0 +1,74 @@
+[
+ {
+ "id":1,
+ "car": "aston martin",
+ "image": "./images/aston martin.jpg",
+ "clicked": false	
+},
+{
+"id":2,
+ "car": "audi r8",
+ "image": "./images/audi r8.jpg",
+ "clicked": false
+},
+{
+"id":3,
+ "car": "bentley",
+ "image": "./images/bentley.jpg",
+ "clicked": false
+},
+{
+"id":4,
+ "car": "brabus rocket",
+ "image": "./images/brabus rocket.jpg",
+ "clicked": false	
+},
+{
+"id":5,
+ "car": "bugatti",
+ "image": "./images/bugatti.jpg",
+ "clicked": false
+},
+{
+"id":6,
+ "car": "ferrari white",
+ "image": "./images/ferrari white.jpg",
+ "clicked": false
+},
+{
+"id":7,
+ "car": "lambo gallardo",
+ "image": "./images/lambo gallardo.jpg",
+ "clicked": false	
+},
+{
+	"id":8,
+ "car": "m6",
+ "image": "./images/m6.jpg",
+ "clicked": false
+},
+{
+	"id":9,
+ "car": "mb chase.jpg",
+ "image": "./images/mb chase.jpg",
+ "clicked": false
+},
+{
+"id":10,
+ "car": "mb gt",
+ "image": "./images/mb gt.jpg",
+ "clicked": false	
+},
+{
+"id":11,
+ "car": "porsch gt3",
+ "image": "./images/porsch gt3.jpg",
+ "clicked": false
+},
+{
+"id":12,
+ "car": "RR",
+ "image": "./images/RR.jpg",
+ "clicked": false	
+}
+]

@@ -1,28 +1,112 @@
-.App {
+
+.row {
+
+  background-size: cover;
+
+  background-position: center;
+
+  /*position: relative;*/
+
+  border: 5px solid #778899;
+
+  width: 80%;
+
+  margin: 0 auto;
+
+}
+
+
+
+.hero {
+
+  height: 240px;
+
+  background-image: linear-gradient(
+
+    to right bottom,
+
+    rgba(17, 3, 9, 0.6), 
+
+    rgba(233, 241, 247, 0.6)), 
+
+  url(/images/coins.jpg);
+
+ background-position: center;
+
+  position: relative;
+
+  border: 5px solid #778899;
+
+  width: 80%;
+
+  margin: 0 auto;
+
+}
+
+
+
+.heroText {
+
+  position: absolute;
+
+  top: 50%;
+
+  left: 50%;
+
+  transform: translate(-50%, -50%);
+
   text-align: center;
+
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+
+
+.banner {
+
+  display: block;
+
+  font-size: 2vw;
+
+  padding-top: 60px;
+
+  font-family: Cinzel Decorative;
+
+  font-weight: 300;
+
+  color: black;
+
+  text-shadow: 2px 5px 4px black;
+
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+
+
+.rules,
+
+.message {
+
+  display: block;
+
+  font-size: 2rem;
+
 }
 
-.App-title {
-  font-size: 1.5em;
-}
 
-.App-intro {
-  font-size: large;
-}
 
-@keyframes App-logo-spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
+.progress-bar {
+
+  background-size: cover;
+
+  background-position: center;
+
+  position: relative;
+
+  border: 2px solid #778899;
+
+  width: 100%;
+
+  
+
+  border-radius: 35px;
+
 }

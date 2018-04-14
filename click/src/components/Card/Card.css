@@ -1,0 +1,67 @@
+.cardStyle {
+
+    background-color: #1E90FF;
+
+    margin: 0.7rem;
+
+    border-radius: 0.2rem;
+
+    position: relative;
+
+    width: 32.5rem;
+
+    box-shadow: inset 0 0 9.5rem;
+
+    text-align: center;
+
+    letter-spacing: 0.05rem;
+
+    line-height: 1.8; 
+
+}
+
+
+
+.imgContainer {
+
+    height: 16rem; 
+
+    width: 100%; 
+
+    text-align: center;
+
+    overflow: hidden;
+
+}
+
+
+
+.img {
+
+	width: 50%;
+
+}
+
+
+
+.content {
+
+    padding-left: 1rem; 
+
+    padding-right: 1rem; 
+
+    position: absolute;
+
+    right: 0rem;
+
+    top: 11rem;
+
+    font-family: 'Cardo', serif;
+
+    text-transform: uppercase;
+
+    font-size: 3rem;
+
+    color: #040F0F;
+
+    text-shadow: .1rem .1rem .1rem #f8f5de, .3rem .3rem .1rem #040F0F;
